@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import time
 
-# 파일의 저장명 변경을 위해 크롤링 하는 작품의 제목을 적어주자
+# 파일의 저장명 변경을 위해 크롤링 하는 작품의 제목을 적어주자.
 Novel_Title = '서녀공략'  
 
 # 네이버 시리즈의 웹소설 중 크롤링이 하고 싶은 페이지 링크를 복사해서 붙여넣는다.
