@@ -12,7 +12,7 @@ import gensim
 import pyLDAvis
 import pyLDAvis.gensim_models
 import nltk
-from colorama import init, Fore  # colorama import
+from colorama import init, Fore  # colorama import.
 
 ##############################################################################
 webnovel_title = '서녀공략'         # 웹소설 제목 변수 설정
